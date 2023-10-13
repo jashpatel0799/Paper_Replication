@@ -1,0 +1,68 @@
+/opt/conda/lib/python3.8/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: /opt/conda/lib/python3.8/site-packages/torchvision/image.so: undefined symbol: _ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIlEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE
+  warn(f"Failed to load image Python extension: {e}")
+  0%|          | 0/21 [00:00<?, ?it/s]  5%|▍         | 1/21 [12:52<4:17:23, 772.16s/it] 10%|▉         | 2/21 [25:41<4:04:13, 771.24s/it] 14%|█▍        | 3/21 [38:31<3:51:15, 770.86s/it] 19%|█▉        | 4/21 [51:22<3:38:26, 770.96s/it] 24%|██▍       | 5/21 [1:04:11<3:25:26, 770.41s/it] 29%|██▊       | 6/21 [1:17:01<3:12:31, 770.13s/it] 33%|███▎      | 7/21 [1:29:51<2:59:41, 770.11s/it] 38%|███▊      | 8/21 [1:42:43<2:47:00, 770.78s/it] 43%|████▎     | 9/21 [1:55:37<2:34:19, 771.65s/it] 48%|████▊     | 10/21 [2:08:32<2:21:39, 772.64s/it] 52%|█████▏    | 11/21 [2:21:28<2:08:58, 773.90s/it] 57%|█████▋    | 12/21 [2:34:23<1:56:07, 774.18s/it] 62%|██████▏   | 13/21 [2:47:17<1:43:12, 774.01s/it] 67%|██████▋   | 14/21 [3:00:11<1:30:18, 774.13s/it] 71%|███████▏  | 15/21 [3:13:09<1:17:30, 775.12s/it] 76%|███████▌  | 16/21 [3:26:06<1:04:39, 775.86s/it] 81%|████████  | 17/21 [3:39:03<51:44, 776.10s/it]   86%|████████▌ | 18/21 [3:52:00<38:49, 776.53s/it] 90%|█████████ | 19/21 [4:04:56<25:52, 776.10s/it] 95%|█████████▌| 20/21 [4:17:51<12:55, 775.76s/it]100%|██████████| 21/21 [4:30:46<00:00, 775.68s/it]100%|██████████| 21/21 [4:30:46<00:00, 773.64s/it]
+
+Epoch: 1
+Train Loss: 5.01901  Test Loss: 4.65091  ||  Train Accuray: 0.00000  Test Accuray: 0.00013
+
+Epoch: 2
+Train Loss: 4.89488  Test Loss: 4.63339  ||  Train Accuray: 0.00000  Test Accuray: 0.00014
+
+Epoch: 3
+Train Loss: 4.86533  Test Loss: 4.62724  ||  Train Accuray: 0.00000  Test Accuray: 0.00014
+
+Epoch: 4
+Train Loss: 4.84710  Test Loss: 4.62327  ||  Train Accuray: 0.00000  Test Accuray: 0.00014
+
+Epoch: 5
+Train Loss: 4.83346  Test Loss: 4.62007  ||  Train Accuray: 0.00000  Test Accuray: 0.00014
+
+Epoch: 6
+Train Loss: 4.82236  Test Loss: 4.61728  ||  Train Accuray: 0.00000  Test Accuray: 0.00015
+
+Epoch: 7
+Train Loss: 4.81288  Test Loss: 4.61475  ||  Train Accuray: 0.00000  Test Accuray: 0.00015
+
+Epoch: 8
+Train Loss: 4.80453  Test Loss: 4.61241  ||  Train Accuray: 0.00000  Test Accuray: 0.00015
+
+Epoch: 9
+Train Loss: 4.79704  Test Loss: 4.61024  ||  Train Accuray: 0.00000  Test Accuray: 0.00015
+
+Epoch: 10
+Train Loss: 4.79023  Test Loss: 4.60819  ||  Train Accuray: 0.00000  Test Accuray: 0.00016
+
+Epoch: 11
+Train Loss: 4.78399  Test Loss: 4.60625  ||  Train Accuray: 0.00000  Test Accuray: 0.00016
+
+Epoch: 12
+Train Loss: 4.77823  Test Loss: 4.60441  ||  Train Accuray: 0.00000  Test Accuray: 0.00016
+
+Epoch: 13
+Train Loss: 4.77290  Test Loss: 4.60264  ||  Train Accuray: 0.00000  Test Accuray: 0.00016
+
+Epoch: 14
+Train Loss: 4.76791  Test Loss: 4.60091  ||  Train Accuray: 0.00001  Test Accuray: 0.00017
+
+Epoch: 15
+Train Loss: 4.76324  Test Loss: 4.59924  ||  Train Accuray: 0.00001  Test Accuray: 0.00017
+
+Epoch: 16
+Train Loss: 4.75885  Test Loss: 4.59759  ||  Train Accuray: 0.00001  Test Accuray: 0.00017
+
+Epoch: 17
+Train Loss: 4.75470  Test Loss: 4.59596  ||  Train Accuray: 0.00001  Test Accuray: 0.00018
+
+Epoch: 18
+Train Loss: 4.75075  Test Loss: 4.59433  ||  Train Accuray: 0.00001  Test Accuray: 0.00018
+
+Epoch: 19
+Train Loss: 4.74700  Test Loss: 4.59271  ||  Train Accuray: 0.00002  Test Accuray: 0.00019
+
+Epoch: 20
+Train Loss: 4.74339  Test Loss: 4.59106  ||  Train Accuray: 0.00002  Test Accuray: 0.00019
+
+Epoch: 21
+Train Loss: 4.73992  Test Loss: 4.58940  ||  Train Accuray: 0.00002  Test Accuray: 0.00020
+
+Saving Model At: save_model/vit_model_01.pth
